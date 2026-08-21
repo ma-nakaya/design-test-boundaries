@@ -37,6 +37,14 @@ GitHub CLI 2.90.0以降の `gh skill` を使う場合、最初に内容を確認
 gh skill preview ma-nakaya/design-test-boundaries design-test-boundaries
 ```
 
+### GitHub Copilot（プロジェクトスコープ：cloud agent／code review）
+
+対象リポジトリのルートで実行すると、`.github/skills/design-test-boundaries/` へ配置されます。
+
+```bash
+gh skill install ma-nakaya/design-test-boundaries design-test-boundaries --dir .github/skills
+```
+
 ### GitHub Copilot（ユーザースコープ）
 
 ```bash
