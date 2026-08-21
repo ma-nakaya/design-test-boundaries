@@ -1,6 +1,7 @@
 ---
 name: design-test-boundaries
 description: Derive language- and framework-independent test boundaries and risk-based cases from requirements, code paths, change diffs, incidents, and existing tests. Use for テスト設計, テスト境界, 「どこにどんなテストを作るか」, mock/fixture decisions, or when an AI coding agent needs to design or review unit, component, integration, contract, persistence, or end-to-end tests; explain why an existing test exists; identify gaps or duplication; or produce a test plan, matrix, implementation order, or beginner-friendly walkthrough for .NET/C#, ASP.NET Core, Blazor, Java/Spring, JavaScript/TypeScript UI frameworks, Python, Go, or other web, desktop, mobile, batch, and event-driven stacks.
+license: MIT
 ---
 
 # Design Test Boundaries

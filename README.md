@@ -60,6 +60,8 @@ gh skill update design-test-boundaries
 - GitHub Copilot: `~/.copilot/skills/design-test-boundaries/` または `~/.agents/skills/design-test-boundaries/`
 - Claude Code: `~/.claude/skills/design-test-boundaries/`
 
+利用・複製・改変・再配布の条件は [MIT License](LICENSE) を確認してください。
+
 ## 主な用途
 
 - どの境界に、どのレベルのテストを置くか決める
